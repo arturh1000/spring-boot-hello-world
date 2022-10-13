@@ -1,4 +1,5 @@
-FROM quay.io/eclipse/che-java8-maven:nightly
+FROM realdolmengfi/java8-maven3:latest
+
 
 MAINTAINER tech-tejendra
 
